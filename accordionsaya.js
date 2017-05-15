@@ -8,7 +8,7 @@
 
 /*
 var toc_config = {
-	url: 'http://dte-feed.blogspot.com',
+	url: 'http://www.flobamorapedia.com',
 	containerId: 'table-of-content',
 	showNew: 10,
 	newText: ' - <strong style="font-weight:bold;font-style:italic;color:red;">Baru!</strong>',
